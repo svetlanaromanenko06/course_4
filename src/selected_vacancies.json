@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Стажер-разработчик",
+    "salary_min": 40000,
+    "salary_max": 40000,
+    "experience": "Нет опыта",
+    "area": "Санкт-Петербург",
+    "vacancy_url": "https://hh.ru/vacancy/82631531"
+  },
+  {
+    "name": "Стажер в IT-компанию (с уклоном в python разработку)",
+    "salary_min": 0,
+    "salary_max": 0,
+    "experience": "Нет опыта",
+    "area": "Санкт-Петербург",
+    "vacancy_url": "https://hh.ru/vacancy/82345120"
+  },
+  {
+    "name": "Стажер в направлении Python разработка",
+    "salary_min": 0,
+    "salary_max": 0,
+    "experience": "Нет опыта",
+    "area": "Москва",
+    "vacancy_url": "https://hh.ru/vacancy/82293080"
+  },
+  {
+    "name": "Junior разработчик Python/Стажер",
+    "salary_min": 50000,
+    "salary_max": 50000,
+    "experience": "От 1 года до 3 лет",
+    "area": "Москва",
+    "vacancy_url": "https://hh.ru/vacancy/81549878"
+  },
+  {
+    "name": "Junior Data Scientist",
+    "salary_min": 0,
+    "salary_max": 0,
+    "experience": "Нет опыта",
+    "area": "Санкт-Петербург",
+    "vacancy_url": "https://hh.ru/vacancy/82534003"
+  },
+  {
+    "name": "Специалист технической поддержки",
+    "salary_min": 15000,
+    "salary_max": 0,
+    "experience": "Не имеет значения",
+    "area": "Казань",
+    "vacancy_url": "https://kazan.superjob.ru/vakansii/specialist-tehnicheskoj-podderzhki-44718650.html"
+  },
+  {
+    "name": "Аналитик данных / Data Analyst (Стрим Сквозные бизнес-компоненты)",
+    "salary_min": 0,
+    "salary_max": 0,
+    "experience": "От 3 лет",
+    "area": "Москва",
+    "vacancy_url": "https://www.superjob.ru/vakansii/analitik-dannyh-46529029.html"
+  },
+  {
+    "name": "Python-разработчик (Django)",
+    "salary_min": 180000,
+    "salary_max": 0,
+    "experience": "От 3 лет",
+    "area": "Москва",
+    "vacancy_url": "https://www.superjob.ru/vakansii/python-razrabotchik-46640575.html"
+  },
+  {
+    "name": "Старший программист-разработчик (Python/Django) / Senior back-end developer",
+    "salary_min": 200000,
+    "salary_max": 300000,
+    "experience": "От 6 лет",
+    "area": "Москва",
+    "vacancy_url": "https://www.superjob.ru/vakansii/starshij-programmist-razrabotchik-46663422.html"
+  },
+  {
+    "name": "Методист по программированию на Python (в центр цифрового образования)",
+    "salary_min": 30000,
+    "salary_max": 0,
+    "experience": "От 1 года",
+    "area": "Санкт-Петербург",
+    "vacancy_url": "https://spb.superjob.ru/vakansii/metodist-po-programmirovaniyu-na-python-38140998.html"
+  }
+]
