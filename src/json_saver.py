@@ -69,36 +69,3 @@ class JsonSaver:
                                reverse=True)
         return salary_sorted
 
-'''
-    def search_words(self, keywords):
-        """ Функция позволяет искать вакансии по заданным ключевым словам """
-        # Если запрос пустой, возвращает все вакансии из файла
-        if not isinstance(keywords, str):
-            return "Error: запрос должен быть строкой"
-        if keywords == '':
-            with open(self.file_name, 'r', encoding='utf-8') as file:
-                vacancies = json.load(file)
-            return vacancies
-        else:
-            with open(self.file_name, 'r', encoding='utf-8') as file:
-                vacancies = json.load(file)
-            # Иначе происходит поиск вакансий по ключевым словам
-            result = []
-            for vacancy in vacancies:
-                for word in keywords.split():
-                    if vacancy['description'] is not None and word.lower() in vacancy['description'].lower():
-                        result.append(vacancy)
-                        break
-            return result
-
-    def json_results(self):
-        """
-        Вывод итоговой информации по JSON-файлу
-        """
-        # Открываем файл в режиме чтения
-        with open(self.file_name, 'r', encoding='utf-8') as file:
-            # Загружаем содержимое файла в переменную final как словарь
-            search_results = json.load(file)
-        # Возвращаем итоговый словарь
-        return search_results
-'''
