@@ -57,12 +57,8 @@ class JsonSaver:
 
     @staticmethod
     def sort_by_max_salary(vacancies):
-        '''Сортировка вакансий по наибольшей зарплате
-
-        salary_sorted = sorted(vacancies,
-                                 key=lambda
-                                 vacancy: vacancy.salary_to if vacancy.salary_to != 0 else vacancy.salary_from,
-                                 reverse=True)'''
+        '''Сортировка вакансий по наибольшей зарплате'''
+        
         salary_sorted = sorted(vacancies,
                                key=lambda
                                    vacancy: vacancy.salary_from,
